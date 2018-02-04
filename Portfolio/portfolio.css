@@ -1,0 +1,100 @@
+.nav-pills {
+  font-family: Arial;
+  font-size: 26px;
+  background-color: black;
+  margin-bottom: 10px;
+}
+
+body {
+  background-color: black;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+h1 {
+  font-family: 'Menlo', monospace;
+  padding: 0;
+  font-size: 56px;
+  padding-top: 0%;
+}
+
+.btn-default {
+  background-color: black;
+  border-color: black;
+  color:lightblue;
+  font-size: 22px;
+}
+
+.pageOne {
+  background: url("https://images.unsplash.com/photo-1435914149323-1b656e7ab379?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=15aa18985e9339cb5c3e0783d9a5c11e&auto=format&fit=crop&w=1350&q=80");
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#linkedinIcon {
+  color: #007bb6;
+}
+
+#githubIcon {
+  color: #6e5494;
+}
+
+#devBlogIcon {
+  color: #228b22; 
+}
+
+.pageTwo {
+    background: url("https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-0.3.5&s=48bf674b888f28bd494268099e8002a3&auto=format&fit=crop&w=1893&q=80");
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.pageThree {
+  background: url("https://images.unsplash.com/photo-1440342359743-84fcb8c21f21?ixlib=rb-0.3.5&s=fbdf444a5ef9a5b47037b43bd2963c2e&auto=format&fit=crop&w=1350&q=80");
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.paddingTop {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.pageFour {
+  background: url("https://images.unsplash.com/photo-1510434642308-ae5fec689403?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e118f75faec298ddb02e6a4635ec94e9&auto=format&fit=crop&w=1963&q=80");
+  background-size: cover;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.paddingBTN {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 200px;
+  margin-bottom: 25px;
+}
+
+.footer {
+  
+}
+
+.footer p {
+  font-size: 15px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.block {
+  background-color: black;
+  opacity: 0.7;
+  padding: 10px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
